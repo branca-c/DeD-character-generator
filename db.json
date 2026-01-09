@@ -1,0 +1,61 @@
+{
+  "characters": [
+    {
+      "id": "0c9e423e-52d6-4e84-aa78-eeeb37632f7d",
+      "user_prompt": "Una mezzelfa ranger di livello 1, cresciuta ai margini di una grande città portuale: di giorno fa la guida nelle paludi, di notte dà la caccia a contrabbandieri e cultisti che rapiscono gente nei vicoli. Vuole dimostrare di non essere “né abbastanza elfa né abbastanza umana”, ma sotto la corazza di sarcasmo ha un forte senso di giustizia e un segreto: anni fa ha tradito un’amica per salvare se stessa. Fisicamente è snella, con capelli neri intrecciati, occhi verde scuro e una cicatrice sul sopracciglio; porta un arco corto consumato, un pugnale d’argento ereditato e un ciondolo che non riesce a togliersi.",
+      "name": "Elara",
+      "race": "Mezzelfa",
+      "class": "Ranger",
+      "level": 1,
+      "stats": {
+        "strength": 10,
+        "dexterity": 17,
+        "constitution": 13,
+        "intelligence": 11,
+        "wisdom": 15,
+        "charisma": 14
+      },
+      "backstory": "Cresciuta ai margini di una grande città portuale, Elara ha imparato fin da giovane a navigare sia le insidiose paludi circostanti che i pericolosi vicoli cittadini. Di giorno, la si trova a guidare i coraggiosi o gli incauti attraverso le zone umide, sfruttando la sua conoscenza del territorio. Di notte, la sua figura snella si muove silenziosa nell'ombra, dando la caccia a contrabbandieri, cultisti e chiunque osi rapire gli innocenti dai vicoli. Il suo desiderio più grande è dimostrare il suo valore, un bisogno bruciante nato dal sentirsi 'né abbastanza elfa né abbastanza umana'. Sotto una corazza di sarcasmo, pulsa un forte senso di giustizia, ma porta con sé un peso: anni fa, per salvare se stessa, ha tradito un'amica, un segreto che ancora la tormenta e modella ogni sua scelta.",
+      "physical_description": "Elara è una figura snella e agile, i suoi movimenti fluidi e silenziosi, come quelli di un predatore nella notte. I suoi capelli neri sono spesso intrecciati strettamente o legati in modo pratico, incorniciando un viso dai tratti delicati ma decisi. I suoi occhi, di un verde scuro intenso, sono penetranti e attenti, capaci di scorgere dettagli che sfuggirebbero alla maggior parte. Una cicatrice sottile le attraversa il sopracciglio sinistro, testimonianza di un passato turbolento. Veste abiti pratici e consumati, adatti alla sua vita tra paludi e vicoli. Il suo equipaggiamento include un arco corto, che mostra i segni di un uso intensivo, e un pugnale d'argento finemente lavorato, ereditato e sempre al suo fianco. Al collo porta un ciondolo semplice, che sembra essere un tutt'uno con lei, incapace di toglierlo.",
+      "created_at": "2026-01-09T10:52:41+00:00"
+    },
+    {
+      "id": "b90a0b87-89f3-4f1b-a235-82b81340006f",
+      "user_prompt": "una strega potentissima, utilizza la magia rossa per contrastare i suoi acerrimi nemici, è di razza umana, giovane e bella nonostante i suoi 350 anni",
+      "name": "Seraphina",
+      "race": "Umana",
+      "class": "Stregone",
+      "level": 1,
+      "stats": {
+        "strength": 8,
+        "dexterity": 14,
+        "constitution": 13,
+        "intelligence": 12,
+        "wisdom": 10,
+        "charisma": 18
+      },
+      "backstory": "Seraphina è un'entità enigmatica, un'umana la cui vita ha superato di gran lunga i limiti della mortalità ordinaria, avendo raggiunto i trecentocinquant'anni pur mantenendo un aspetto giovanile e radioso. La sua longevità è un mistero per molti, ma è profondamente legata alla sua padronanza della 'magia rossa', una forza primordiale e distruttiva che lei imbriglia con una volontà ferrea. Cresciuta in un'epoca dimenticata, ha assistito al sorgere e al cadere di imperi, accumulando una saggezza e un potere senza pari. La sua magia non è per la protezione, ma per l'annientamento: è un'arma forgiata dal dolore e dalla vendetta, scatenata con furia inarrestabile contro coloro che hanno osato sfidare la sua esistenza o minacciare il precario equilibrio del mondo che ha imparato a chiamare casa. I suoi nemici sono antichi quanto lei, e la loro caduta è l'unico scopo che anima i suoi secoli di vita.",
+      "physical_description": "Nonostante i suoi trecentocinquant'anni, Seraphina appare come una giovane donna di venticinque, con una bellezza che sfida il tempo. I suoi lunghi capelli, che ondeggiano come fiamme crepitanti, hanno un colore rosso intenso che sembra pulsare di energia. I suoi occhi, di un verde smeraldo penetrante, brillano di una saggezza antica e una scintilla di pericolo. La sua figura è slanciata ed elegante, vestita spesso con abiti sontuosi ma pratici che non ostacolano i suoi movimenti, impreziositi da rune e simboli arcani che brillano debolmente quando la sua magia è vicina. La sua pelle è pallida, quasi luminescente, priva di rughe o segni dell'età, un testamento vivente della sua straordinaria longevità e del suo potere sulla vita stessa.",
+      "created_at": "2026-01-09T11:36:07+00:00"
+    },
+    {
+      "id": "f17ee32a-eb61-427d-817f-d0fca669defd",
+      "user_prompt": "un elfo con peidi grandi e puzzolenti che adora mangiare carbonara e sconfigge i nemici a puzzette",
+      "name": "Aerion Puzzetto",
+      "race": "Elfo",
+      "class": "Bardo",
+      "level": 1,
+      "stats": {
+        "strength": 8,
+        "dexterity": 16,
+        "constitution": 12,
+        "intelligence": 10,
+        "wisdom": 10,
+        "charisma": 16
+      },
+      "backstory": "Aerion è nato in una comunità elfica che valorizzava l'eleganza e la grazia, ma Aerion era diverso. Fin da giovane, ha sviluppato una passione insolita per il cibo più robusto e saporito, in particolare la carbonara, che spesso preparava con ingredienti trovati nei boschi. Questa dieta, combinata con una scarsa attenzione all'igiene dei piedi durante le sue lunghe passeggiate, lo ha reso un soggetto di scherno per la sua gente a causa dei suoi piedi grandi e incredibilmente puzzolenti. Tuttavia, Aerion ha scoperto un talento unico: la sua capacità di generare \"esplosioni gassose\" non era solo un fastidio, ma poteva essere usata come arma. Ha iniziato a perfezionare questa \"arte della flatulenza\", trasformandola in una forma di distrazione e attacco sonoro e olfattivo, accompagnandola con canti e rime bizzarre. Abbandonato dalla sua comunità, Aerion ora viaggia, cercando avventura e la migliore carbonara del reame, pronto a sconfiggere i nemici con una sinfonia di scorregge ben piazzate.",
+      "physical_description": "Aerion è un elfo snello, come la maggior parte della sua razza, con lunghi capelli castani e occhi verdi penetranti. La sua pelle è abbronzata dal sole e segnata da avventure. Tuttavia, la sua caratteristica più evidente sono i suoi piedi: sproporzionatamente grandi per un elfo, spesso visibili dai suoi sandali logori, e purtroppo emanano un odore inconfondibile, quasi un'aura propria. Veste abiti pratici e un po' trasandati, preferendo il comfort alla raffinatezza. Ha un sorriso sornione e gli manca un dente frontale, probabilmente a causa di un'eccessiva indulgenza in qualche pasto troppo duro o una rissa culinaria.",
+      "created_at": "2026-01-09T12:10:51+00:00"
+    }
+  ]
+}
